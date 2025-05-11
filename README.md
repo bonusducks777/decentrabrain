@@ -1,12 +1,24 @@
+![Slide 1](https://lh3.googleusercontent.com/d/1z60TH6RjBb_iOQ-x8yDGg8BbmEPoSpJP)
+
 # DecentraBrain
 
 **A decentralized marketplace for reusable, monetizable robot "brains" built on Olas for the Encode Hackathon 2025**
 
+![Slide 4](https://lh3.googleusercontent.com/d/1jeeUkYEjfwKp9jdXKI6pCYoCHRy6uAv_)
+
 DecentraBrain is a platform that enables developers to create, monetize, and rent modular AI "brains" for robots, simplifying autonomous robot development and testing. Built for the [Olas Encode Hackathon](https://hackathon.olas.network), our project leverages the Olas Mech Marketplace and SDK to empower developers and users with flexible, agentic robot control logic. Our vision is to create a vibrant ecosystem where creators monetize high-quality brains, and users rent them for robotics applications like prototyping, education, and robot-as-a-service deployments.
 
+![Slide 5](https://lh3.googleusercontent.com/d/130eSvNfz6NpcnpcE9A2ZbrvEOeZ-Vj0h)
+![Slide 6](https://lh3.googleusercontent.com/d/1tq-ZMSTfto0VJ_s3HuVXwfjzohxL5h1e)
+![Slide 7](https://lh3.googleusercontent.com/d/1WbC93vdAEDOhdMfn-RSZUeq7sV1Ckm77)
+
 ## What We Built
+![Slide 8](https://lh3.googleusercontent.com/d/1hnCYyRr6DfMIncdDjeK3iyfAhigUDIv8)
 
 We developed a robot-coordinator agent and a custom Mech to demonstrate a modular "brain" stack, integrated with the Olas ecosystem. Key components include:
+
+![Slide 9](https://lh3.googleusercontent.com/d/1-iPG8iZwTCs1YTeNDdiaQTPUyyBKZY1Y)
+
 
 - **Mech Marketplace - Demand Side (Bounty 1)**:
   - Integrated the existing `openai_request` Mech to process user commands (e.g., "Navigate to kitchen") using OpenAI’s API for natural language interpretation.
@@ -115,6 +127,8 @@ Our project aligns with Olas’ bounties by:
 Join us in revolutionizing robotics with DecentraBrain! 🚀
 
 ---
+
+![Slide 17](https://lh3.googleusercontent.com/d/1BJT4367bN7vSnMMv2kLNHRXfemUfktid)
 
 **Resources**:
 - [Olas Mech Client Docs](https://docs.autonolas.network/mech-client)
